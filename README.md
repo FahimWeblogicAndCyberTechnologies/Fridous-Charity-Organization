@@ -1,7 +1,5 @@
 # Fridous-Charity-Organization
 Fridous Charity Organization Donation 
-![Screenshot (10)](https://user-images.githubusercontent.com/89752022/219023957-f5cdd9f9-5c38-4379-ab16-965a7e0fbf46.png)
-![Screenshot (11)](https://user-images.githubusercontent.com/89752022/219023973-7259377c-5c92-4346-9d8c-c63b3524a193.png)
 ![Screenshot (12)](https://user-images.githubusercontent.com/89752022/219023996-bf4de684-19be-4d32-9684-f572e8ccaae0.png)
 ![Screenshot (13)](https://user-images.githubusercontent.com/89752022/219024003-f8856465-602f-4401-9d92-e24e335af4d6.png)
 ![Screenshot (14)](https://user-images.githubusercontent.com/89752022/219024016-3a9a06e0-5933-4ae5-8f88-b1c2d370b8d0.png)
